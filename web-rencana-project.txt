@@ -1,7 +1,8 @@
 RENCANA PROJECT WEB
 
-- php frameworks CodeIgeneter
-- php frameworks Laravel
+- php framework
+  ^ Laravel
+  ^ CodeIgneter
 - HTML and CSS Frameworks
 - Belajar syntax javascript
 - Javascirpt Framework
