@@ -3,6 +3,8 @@ RENCANA PROJECT WEB
 - php frameworks CodeIgeneter
 - php frameworks Laravel
 - HTML and CSS Frameworks
+- Belajar syntax javascript
 - Javascirpt Framework
 - Website Interaktif
 - App Website
+- Belajar bahasa pemograman lain seperti java atau phyton
