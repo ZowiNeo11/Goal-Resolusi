@@ -8,3 +8,4 @@ RENCANA PROJECT WEB
 - Website Interaktif
 - App Website
 - Belajar bahasa pemograman lain seperti java atau phyton
+- Belajar database seperti mysqli dan semacamnya
