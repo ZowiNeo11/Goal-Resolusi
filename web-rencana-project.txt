@@ -6,7 +6,7 @@ RENCANA PROJECT WEB
 - HTML and CSS Frameworks
 - Belajar syntax javascript
 - Javascirpt Framework
-  ^ Angular js
+  ^ Vue
   ^ React
 - Website Interaktif
 - App Website
